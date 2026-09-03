@@ -1,0 +1,5 @@
+project: savantenvs/scs-repro-buggy-mhh-run-8
+target: scs-norm-sq
+cmds:
+  - cmd: /mayhem/fuzz_scs_norm_sq
+    libfuzzer: true
