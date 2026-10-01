@@ -1,0 +1,5 @@
+project: savantenvs/scs
+target: run-from-file-direct-buggy-mhh-run-8
+# origin: https://app.mayhem.security/mayhemheroes/scs/run-from-file-direct/8
+cmds:
+  - cmd: /mayhem/out/run_from_file_direct @@
